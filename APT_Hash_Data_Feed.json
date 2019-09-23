@@ -1,0 +1,27 @@
+[
+	{
+		"id": 33092609,
+		"MD5": "2FF1688FE866EC2871169197F9D46936",
+		"detection_date": "16.09.2019 00:00",
+		"publication_name": "Analysis of Kukumato samples shared by IR Cybercommand"
+	},
+
+	{
+		"id": 33051274,
+		"MD5": "B427C7253451268CA97DE38BE04BF59A",
+		"detection_date": "12.09.2019 00:00",
+		"publication_name": "MOMMYJOKE Malware Targeting Asian Government"
+	},
+	{
+		"id": 32779272,
+		"MD5": "AE6B1CA21A5795470ECC01C1E622B9A1",
+		"detection_date": "26.08.2019 00:00",
+		"publication_name": "MOMMYJOKE Malware Targeting Asian Government"
+	},
+	{
+		"id": 30634307,
+		"MD5": "C16006A0E3539F0644A58C404CA3D1DA",
+		"detection_date": "24.04.2019 00:00",
+		"publication_name": "TentoFiveLittleDonkeys are back with BobbyEye trojan and Google app sideloading"
+	}
+]
